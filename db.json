@@ -1,33 +1,37 @@
 {
-  "projects": [
+  "books": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "title": "Las hijas de la criada",
+      "author": {
+        "name": "Sonsoles", 
+        "lastName": "Onega", 
+        "nobelAwarded": false, 
+        "country": "Spain",
+        "birth": "1986-11-23"
+      },
+      "genres": ["Historical Fiction", "Drama"],
+      "cover": "https://www.planetadelibros.com/usuaris/libros/thumbs/8ada20c4-6261-463e-ac85-74268a9db183/d_1200_1200/portada_las-hijas-de-la-criada_sonsoles-onega_202310231203.webp",
+      "description": "Una noche de febrero de 1900, recién estrenado el siglo XX, en el pazo de Espíritu Santo llegan al mundo dos niñas, Clara y Catalina, cuyos destinos ya estaban escritos. Sin embargo, una venganza inesperada sacudirá para siempre sus vidas y las de todos los Valdés. Doña Inés, matriarca de la saga y fiel esposa de don Gustavo, deberá sobrevivir al desamor, al dolor del abandono y a las luchas de poder hasta convertir a su verdadera hija en heredera de todo un imperio, en una época en la que a las mujeres no se les permitía ser dueñas de sus vidas.",
+      "pages": 480,
+      "country": "Spain",
+      "language": "spanish",
+      "publishSpecs": {
+        "year": 2023,
+        "publisher": "Editorial Planeta"
+      }, 
+      "awards": ["Premio Planeta", "Whatever"],
+      "beenRead": false,
+      "currentlyReading": false,
+      "reviewData": {
+        "rating": 0,
+        "comment": "",
+        "date": ""
+      }
     },
     {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      
+
     }
   ]
 }
