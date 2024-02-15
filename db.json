@@ -5,22 +5,21 @@
       "title": "Las hijas de la criada",
       "author": {
         "name": "Sonsoles", 
-        "lastName": "Onega", 
+        "lastName": "Ónega", 
         "nobelAwarded": false, 
         "country": "Spain",
-        "birth": "1986-11-23"
+        "birth": "1977-11-30"
       },
       "genres": ["Historical Fiction", "Drama"],
       "cover": "https://www.planetadelibros.com/usuaris/libros/thumbs/8ada20c4-6261-463e-ac85-74268a9db183/d_1200_1200/portada_las-hijas-de-la-criada_sonsoles-onega_202310231203.webp",
       "description": "Una noche de febrero de 1900, recién estrenado el siglo XX, en el pazo de Espíritu Santo llegan al mundo dos niñas, Clara y Catalina, cuyos destinos ya estaban escritos. Sin embargo, una venganza inesperada sacudirá para siempre sus vidas y las de todos los Valdés. Doña Inés, matriarca de la saga y fiel esposa de don Gustavo, deberá sobrevivir al desamor, al dolor del abandono y a las luchas de poder hasta convertir a su verdadera hija en heredera de todo un imperio, en una época en la que a las mujeres no se les permitía ser dueñas de sus vidas.",
       "pages": 480,
-      "country": "Spain",
-      "language": "spanish",
+      "language": "Spanish",
       "publishSpecs": {
         "year": 2023,
         "publisher": "Editorial Planeta"
       }, 
-      "awards": ["Premio Planeta", "Whatever"],
+      "awards": ["Premio Planeta", "Best Seller"],
       "beenRead": false,
       "currentlyReading": false,
       "reviewData": {
@@ -30,8 +29,32 @@
       }
     },
     {
-      
-
+      "id": 2,
+      "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+      "author": {
+        "name": "James", 
+        "lastName": "Clear", 
+        "nobelAwarded": false, 
+        "country": "United Kingdom",
+        "birth": "1986-01-22"
+      },
+      "genres": ["Nonfiction", "Self Help", "Psychology"],
+      "cover": "https://imagessl1.casadellibro.com/a/l/s5/31/9781847941831.webp",
+      "description": "No matter your goals, Atomic Habits offers a proven framework for improving—every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results. If you're having trouble changing your habits, the problem isn't you. The problem is your system. Bad habits repeat themselves again and again not because you don't want to change, but because you have the wrong system for change. You do not rise to the level of your goals. You fall to the level of your systems. Here, you'll get a proven system that can take you to new heights. Clear is known for his ability to distill complex topics into simple behaviors that can be easily applied to daily life and work. Here, he draws on the most proven ideas from biology, psychology, and neuroscience to create an easy-to-understand guide for making good habits inevitable and bad habits impossible. Along the way, readers will be inspired and entertained with true stories from Olympic gold medalists, award-winning artists, business leaders, life-saving physicians, and star comedians who have used the science of small habits to master their craft and vault to the top of their field. Atomic Habits will reshape the way you think about progress and success, and give you the tools and strategies you need to transform your habits--whether you are a team looking to win a championship, an organization hoping to redefine an industry, or simply an individual who wishes to quit smoking, lose weight, reduce stress, or achieve any other goal.",
+      "pages": 288,
+      "language": "English",
+      "publishSpecs": {
+        "year": 2018,
+        "publisher": "Random House Uk"
+      }, 
+      "awards": ["Best Seller"],
+      "beenRead": false,
+      "currentlyReading": false,
+      "reviewData": {
+        "rating": 0,
+        "comment": "",
+        "date": ""
+      }
     }
   ]
 }
