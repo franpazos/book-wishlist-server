@@ -97,6 +97,43 @@
       }
     },
     {
+      "id": 4,
+      "title": "Hierba",
+      "author": {
+        "name": "Keum Suk",
+        "lastName": "Gendry-Kim",
+        "nobelAwarded": false,
+        "country": "South Korea",
+        "birth": "1971-05-03"
+      },
+      "genres": [
+        "Nonfiction",
+        "Graphic Novel",
+        "Historic",
+        "Biography"
+      ],
+      "cover": "https://m.media-amazon.com/images/I/71k4zafZL-L._AC_UF894,1000_QL80_.jpg",
+      "description": "Grass is a powerful anti-war graphic novel, offering up firsthand the life story of a Korean girl named Okseon Lee who was forced into sexual slavery for the Japanese Imperial Army during the second World War a disputed chapter in 20th century Asian history. Beginning in Lee s childhood, Grass shows the leadup to World War II from a child s vulnerable perspective, detailing how one person experienced the Japanese occupation and the widespread suffering it entailed for ordinary Korean folk. Keum Suk Gendry-Kim emphasizes Lee s strength in overcoming the many forms of adversity she experienced. Grass is painted in a black ink that flows with lavish details of the beautiful fields and farmland of Korea and uses heavy brushwork on the somber interiors of Lee s memories. Cartoonist Gendry-Kim s interviews with Lee become an integral part of Grass, forming the heart and architecture of this powerful non-fiction graphic novel and offering a holistic view of how Lee s wartime suffering changed her. Grass is a landmark graphic novel that makes personal the desperate cost of war and the importance of peace.",
+      "pages": 488,
+      "language": "Spanish",
+      "publishSpecs": {
+        "year": 2022,
+        "publisher": "Reservoir Books"
+      },
+      "awards": [
+        "Harvey Award",
+        "Believer Book Award",
+        "Cartoonist Studio Prize"
+      ],
+      "beenRead": true,
+      "currentlyReading": true,
+      "reviewData": {
+        "rating": 0,
+        "comment": "",
+        "date": ""
+      }
+    },
+    {
       "id": 5,
       "title": "The Truth About the Harry Quebert Affair",
       "author": {
