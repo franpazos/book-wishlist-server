@@ -4,13 +4,16 @@
       "id": 1,
       "title": "Las hijas de la criada",
       "author": {
-        "name": "Sonsoles", 
-        "lastName": "Onega", 
-        "nobelAwarded": false, 
+        "name": "Sonsoles",
+        "lastName": "Onega",
+        "nobelAwarded": false,
         "country": "Spain",
         "birth": "1986-11-23"
       },
-      "genres": ["Historical Fiction", "Drama"],
+      "genres": [
+        "Historical Fiction",
+        "Drama"
+      ],
       "cover": "https://www.planetadelibros.com/usuaris/libros/thumbs/8ada20c4-6261-463e-ac85-74268a9db183/d_1200_1200/portada_las-hijas-de-la-criada_sonsoles-onega_202310231203.webp",
       "description": "Una noche de febrero de 1900, recién estrenado el siglo XX, en el pazo de Espíritu Santo llegan al mundo dos niñas, Clara y Catalina, cuyos destinos ya estaban escritos. Sin embargo, una venganza inesperada sacudirá para siempre sus vidas y las de todos los Valdés. Doña Inés, matriarca de la saga y fiel esposa de don Gustavo, deberá sobrevivir al desamor, al dolor del abandono y a las luchas de poder hasta convertir a su verdadera hija en heredera de todo un imperio, en una época en la que a las mujeres no se les permitía ser dueñas de sus vidas.",
       "pages": 480,
@@ -19,8 +22,11 @@
       "publishSpecs": {
         "year": 2023,
         "publisher": "Editorial Planeta"
-      }, 
-      "awards": ["Premio Planeta", "Whatever"],
+      },
+      "awards": [
+        "Premio Planeta",
+        "Whatever"
+      ],
       "beenRead": false,
       "currentlyReading": false,
       "reviewData": {
@@ -30,8 +36,36 @@
       }
     },
     {
-      
-
+      "id": 3,
+      "title": "Malice",
+      "author": {
+        "name": "John",
+        "lastName": "Gwynne",
+        "nobelAwarded": false,
+        "country": "United Kingdom",
+        "birth": "1968-09-21"
+      },
+      "genres": [
+        "Fantasy"
+      ],
+      "cover": "https://www.planetadelibros.com/usuaris/libros/thumbs/8ada20c4-6261-463e-ac85-74268a9db183/d_1200_1200/portada_las-hijas-de-la-criada_sonsoles-onega_202310231203.webp",
+      "description": "Young Corban watches enviously as boys become warriors, learning the art of war. He yearns to wield his sword and spear to protect his king’s realm. But that day will come all too soon. Only when he loses those he loves will he learn the true price of courage. The Banished Lands has a violent past where armies of men and giants clashed in battle, the earth running dark with their heartsblood. Although the giant-clans were broken in ages past, their ruined fortresses still scar the land. But now giants stir anew, the very stones weep blood and there are sightings of giant wyrms. Those who can still read the signs see a threat far greater than the ancient wars. Sorrow will darken the world, as angels and demons make it their battlefield. Then there will be a war to end all wars. High King Aquilus summons his fellow kings to council, seeking an alliance in this time of need. Prophesy indicates darkness and light will demand two champions, the Black Sun and the Bright Star. They would be wise to seek out both, for if the Black Sun gains ascendancy, mankind’s hopes and dreams will fall to dust.",
+      "pages": 640,
+      "language": "English",
+      "publishSpecs": {
+        "year": 2013,
+        "publisher": "Pan McMillan"
+      },
+      "awards": [
+        "Morning Star"
+      ],
+      "beenRead": false,
+      "currentlyReading": true,
+      "reviewData": {
+        "rating": 0,
+        "comment": "",
+        "date": ""
+      }
     }
   ]
 }
