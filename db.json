@@ -1,5 +1,5 @@
 {
-  "books": [
+  "wishlist": [
     {
       "id": 1,
       "title": "Las hijas de la criada",
@@ -61,7 +61,7 @@
         "Best Seller"
       ],
       "beenRead": false,
-      "currentlyReading": false,
+      "currentlyReading": false
     },
     {
       "id": 3,
