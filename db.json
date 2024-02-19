@@ -1,5 +1,5 @@
 {
-  "wishlist": [
+  "books": [
     {
       "id": 1,
       "title": "Las hijas de la criada",
@@ -89,7 +89,7 @@
         "Morning Star"
       ],
       "beenRead": false,
-      "currentlyReading": true,
+      "currentlyReading": false,
       "reviewData": {
         "rating": 0,
         "comment": "",
@@ -125,8 +125,8 @@
         "Believer Book Award",
         "Cartoonist Studio Prize"
       ],
-      "beenRead": true,
-      "currentlyReading": true,
+      "beenRead": false,
+      "currentlyReading": false,
       "reviewData": {
         "rating": 0,
         "comment": "",
