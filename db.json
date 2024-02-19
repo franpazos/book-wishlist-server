@@ -1,5 +1,5 @@
 {
-  "books": [
+  "wishlist": [
     {
       "id": 1,
       "title": "Las hijas de la criada",
@@ -14,7 +14,7 @@
         "Historical Fiction",
         "Drama"
       ],
-      "cover": "https://www.planetadelibros.com/usuaris/libros/thumbs/8ada20c4-6261-463e-ac85-74268a9db183/d_1200_1200/portada_las-hijas-de-la-criada_sonsoles-onega_202310231203.webp",
+      "cover": "https://m.media-amazon.com/images/I/81gljyRLiOL._SL1500_.jpg",
       "description": "Una noche de febrero de 1900, recién estrenado el siglo XX, en el pazo de Espíritu Santo llegan al mundo dos niñas, Clara y Catalina, cuyos destinos ya estaban escritos. Sin embargo, una venganza inesperada sacudirá para siempre sus vidas y las de todos los Valdés. Doña Inés, matriarca de la saga y fiel esposa de don Gustavo, deberá sobrevivir al desamor, al dolor del abandono y a las luchas de poder hasta convertir a su verdadera hija en heredera de todo un imperio, en una época en la que a las mujeres no se les permitía ser dueñas de sus vidas.",
       "pages": 480,
       "language": "Spanish",
@@ -160,7 +160,7 @@
         "Gouncourt Award",
         "Grand Prix du roman de l'Académie française"
       ],
-      "beenRead": true,
+      "beenRead": false,
       "currentlyReading": false,
       "reviewData": {
         "rating": 0,
