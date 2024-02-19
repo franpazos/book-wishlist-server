@@ -1,38 +1,174 @@
-{
-  "wishlist": [
-    {
-      "id": 1,
-      "title": "Las hijas de la criada",
-      "author": {
-        "name": "Sonsoles",
-        "lastName": "Ónega",
-        "nobelAwarded": false,
-        "country": "Spain",
-        "birth": "1977-11-30"
+  {
+    "wishlist": [
+      {
+        "id": 1,
+        "title": "Las hijas de la criada",
+        "author": {
+          "name": "Sonsoles",
+          "lastName": "Ónega",
+          "nobelAwarded": false,
+          "country": "Spain",
+          "birth": "1977-11-30"
+        },
+        "genres": [
+          "Historical Fiction",
+          "Drama"
+        ],
+        "cover": "https://m.media-amazon.com/images/I/81gljyRLiOL._SL1500_.jpg",
+        "description": "Una noche de febrero de 1900, recién estrenado el siglo XX, en el pazo de Espíritu Santo llegan al mundo dos niñas, Clara y Catalina, cuyos destinos ya estaban escritos. Sin embargo, una venganza inesperada sacudirá para siempre sus vidas y las de todos los Valdés. Doña Inés, matriarca de la saga y fiel esposa de don Gustavo, deberá sobrevivir al desamor, al dolor del abandono y a las luchas de poder hasta convertir a su verdadera hija en heredera de todo un imperio, en una época en la que a las mujeres no se les permitía ser dueñas de sus vidas.",
+        "pages": 480,
+        "language": "Spanish",
+        "publishSpecs": {
+          "year": 2023,
+          "publisher": "Editorial Planeta"
+        },
+        "awards": [
+          "Premio Planeta",
+          "Best Seller"
+        ],
+        "beenRead": false,
+        "currentlyReading": false,
+        "reviewData": {
+          "rating": 0,
+          "comment": "",
+          "date": ""
+        }
       },
-      "genres": [
-        "Historical Fiction",
-        "Drama"
-      ],
-      "cover": "https://m.media-amazon.com/images/I/81gljyRLiOL._SL1500_.jpg",
-      "description": "Una noche de febrero de 1900, recién estrenado el siglo XX, en el pazo de Espíritu Santo llegan al mundo dos niñas, Clara y Catalina, cuyos destinos ya estaban escritos. Sin embargo, una venganza inesperada sacudirá para siempre sus vidas y las de todos los Valdés. Doña Inés, matriarca de la saga y fiel esposa de don Gustavo, deberá sobrevivir al desamor, al dolor del abandono y a las luchas de poder hasta convertir a su verdadera hija en heredera de todo un imperio, en una época en la que a las mujeres no se les permitía ser dueñas de sus vidas.",
-      "pages": 480,
-      "language": "Spanish",
-      "publishSpecs": {
-        "year": 2023,
-        "publisher": "Editorial Planeta"
+      {
+        "id": 2,
+        "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+        "author": {
+          "name": "James",
+          "lastName": "Clear",
+          "nobelAwarded": false,
+          "country": "United Kingdom",
+          "birth": "1986-01-22"
+        },
+        "genres": [
+          "Nonfiction",
+          "Self Help",
+          "Psychology"
+        ],
+        "cover": "https://imagessl1.casadellibro.com/a/l/s5/31/9781847941831.webp",
+        "description": "No matter your goals, Atomic Habits offers a proven framework for improving—every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results. If you're having trouble changing your habits, the problem isn't you. The problem is your system. Bad habits repeat themselves again and again not because you don't want to change, but because you have the wrong system for change. You do not rise to the level of your goals. You fall to the level of your systems. Here, you'll get a proven system that can take you to new heights. Clear is known for his ability to distill complex topics into simple behaviors that can be easily applied to daily life and work. Here, he draws on the most proven ideas from biology, psychology, and neuroscience to create an easy-to-understand guide for making good habits inevitable and bad habits impossible. Along the way, readers will be inspired and entertained with true stories from Olympic gold medalists, award-winning artists, business leaders, life-saving physicians, and star comedians who have used the science of small habits to master their craft and vault to the top of their field. Atomic Habits will reshape the way you think about progress and success, and give you the tools and strategies you need to transform your habits--whether you are a team looking to win a championship, an organization hoping to redefine an industry, or simply an individual who wishes to quit smoking, lose weight, reduce stress, or achieve any other goal.",
+        "pages": 288,
+        "language": "English",
+        "publishSpecs": {
+          "year": 2018,
+          "publisher": "Random House Uk"
+        },
+        "awards": [
+          "Best Seller"
+        ],
+        "beenRead": false,
+        "currentlyReading": false
       },
-      "awards": [
-        "Premio Planeta",
-        "Best Seller"
-      ],
-      "beenRead": false,
-      "currentlyReading": false,
-      "reviewData": {
-        "rating": 0,
-        "comment": "",
-        "date": ""
+      {
+        "id": 3,
+        "title": "Malice",
+        "author": {
+          "name": "John",
+          "lastName": "Gwynne",
+          "nobelAwarded": false,
+          "country": "United Kingdom",
+          "birth": "1968-09-21"
+        },
+        "genres": [
+          "Fantasy",
+          "Fiction"
+        ],
+        "cover": "https://m.media-amazon.com/images/I/71GtZSi3AbL._AC_UF1000,1000_QL80_.jpg",
+        "description": "Young Corban watches enviously as boys become warriors, learning the art of war. He yearns to wield his sword and spear to protect his king’s realm. But that day will come all too soon. Only when he loses those he loves will he learn the true price of courage. The Banished Lands has a violent past where armies of men and giants clashed in battle, the earth running dark with their heartsblood. Although the giant-clans were broken in ages past, their ruined fortresses still scar the land. But now giants stir anew, the very stones weep blood and there are sightings of giant wyrms. Those who can still read the signs see a threat far greater than the ancient wars. Sorrow will darken the world, as angels and demons make it their battlefield. Then there will be a war to end all wars. High King Aquilus summons his fellow kings to council, seeking an alliance in this time of need. Prophesy indicates darkness and light will demand two champions, the Black Sun and the Bright Star. They would be wise to seek out both, for if the Black Sun gains ascendancy, mankind’s hopes and dreams will fall to dust.",
+        "pages": 640,
+        "language": "English",
+        "publishSpecs": {
+          "year": 2013,
+          "publisher": "Pan McMillan"
+        },
+        "awards": [
+          "Morning Star"
+        ],
+        "beenRead": false,
+        "currentlyReading": false,
+        "reviewData": {
+          "rating": 0,
+          "comment": "",
+          "date": ""
+        }
+      },
+      {
+        "id": 4,
+        "title": "Hierba",
+        "author": {
+          "name": "Keum Suk",
+          "lastName": "Gendry-Kim",
+          "nobelAwarded": false,
+          "country": "South Korea",
+          "birth": "1971-05-03"
+        },
+        "genres": [
+          "Nonfiction",
+          "Graphic Novel",
+          "Historic",
+          "Biography"
+        ],
+        "cover": "https://m.media-amazon.com/images/I/71k4zafZL-L._AC_UF894,1000_QL80_.jpg",
+        "description": "Grass is a powerful anti-war graphic novel, offering up firsthand the life story of a Korean girl named Okseon Lee who was forced into sexual slavery for the Japanese Imperial Army during the second World War a disputed chapter in 20th century Asian history. Beginning in Lee s childhood, Grass shows the leadup to World War II from a child s vulnerable perspective, detailing how one person experienced the Japanese occupation and the widespread suffering it entailed for ordinary Korean folk. Keum Suk Gendry-Kim emphasizes Lee s strength in overcoming the many forms of adversity she experienced. Grass is painted in a black ink that flows with lavish details of the beautiful fields and farmland of Korea and uses heavy brushwork on the somber interiors of Lee s memories. Cartoonist Gendry-Kim s interviews with Lee become an integral part of Grass, forming the heart and architecture of this powerful non-fiction graphic novel and offering a holistic view of how Lee s wartime suffering changed her. Grass is a landmark graphic novel that makes personal the desperate cost of war and the importance of peace.",
+        "pages": 488,
+        "language": "Spanish",
+        "publishSpecs": {
+          "year": 2022,
+          "publisher": "Reservoir Books"
+        },
+        "awards": [
+          "Harvey Award",
+          "Believer Book Award",
+          "Cartoonist Studio Prize"
+        ],
+        "beenRead": false,
+        "currentlyReading": false,
+        "reviewData": {
+          "rating": 0,
+          "comment": "",
+          "date": ""
+        }
+      },
+      {
+        "id": 5,
+        "title": "The Truth About the Harry Quebert Affair",
+        "author": {
+          "name": "Joël",
+          "lastName": "Dicker",
+          "nobelAwarded": false,
+          "country": "Suizo",
+          "birth": "1985-06-16"
+        },
+        "genres": [
+          "Fiction",
+          "Thriller"
+        ],
+        "cover": "https://m.media-amazon.com/images/I/812kr8ivEUL._AC_UF1000,1000_QL80_.jpg",
+        "description": "Marcus Goldman is riding high. The twenty-eight-year-old writer is the new darling of American letters, whose debut novel has sold two million copies. But when it comes time to produce a new book, he is sidelined by a crippling case of writer’s block. He travels to Somerset, New Hamprshire, to see his mentor, Harry Quebert, one of the country’s most respected writers, hoping to jar his creative juices as his publisher’s deadline looms. But Marcus’s plans are upended when Harry is sensationally implicated in a cold-case murder: Fifteen-year-old Nola Kellergan went missing in 1975, and Harry admits to having had an affair with her. Following a trail of clues through the backwoods and isolated beaches of New Hampshire, Marcus must answer two questions, which are mysteriously connected: Who killed Nola Kellergan? And how do you write a book to save someone’s life?",
+        "pages": 656,
+        "language": "English",
+        "publishSpecs": {
+          "year": 2014,
+          "publisher": "Penguin Books"
+        },
+        "awards": [
+          "New York Times Best-seller",
+          "Gouncourt Award",
+          "Grand Prix du roman de l'Académie française"
+        ],
+        "beenRead": true,
+        "currentlyReading": false,
+        "reviewData": {
+          "rating": 0,
+          "comment": "",
+          "date": ""
+        }
       }
+<<<<<<< HEAD
     },
     {
       "id": 2,
@@ -170,3 +306,7 @@
     }
   ]
 }
+=======
+    ]
+  }
+>>>>>>> fran
