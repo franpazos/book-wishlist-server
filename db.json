@@ -1,8 +1,8 @@
 {
-  "books": [
+  "wishlist": [
     {
       "id": 1,
-      "title": "Las hijas de la criada",
+      "title": "The Daughters of the Maid",
       "author": {
         "name": "Sonsoles",
         "lastName": "Ónega",
@@ -12,10 +12,10 @@
       },
       "genres": [
         "Historical Fiction",
-        "Drama"
+        "Romance Novel"
       ],
-      "cover": "https://www.planetadelibros.com/usuaris/libros/thumbs/8ada20c4-6261-463e-ac85-74268a9db183/d_1200_1200/portada_las-hijas-de-la-criada_sonsoles-onega_202310231203.webp",
-      "description": "Una noche de febrero de 1900, recién estrenado el siglo XX, en el pazo de Espíritu Santo llegan al mundo dos niñas, Clara y Catalina, cuyos destinos ya estaban escritos. Sin embargo, una venganza inesperada sacudirá para siempre sus vidas y las de todos los Valdés. Doña Inés, matriarca de la saga y fiel esposa de don Gustavo, deberá sobrevivir al desamor, al dolor del abandono y a las luchas de poder hasta convertir a su verdadera hija en heredera de todo un imperio, en una época en la que a las mujeres no se les permitía ser dueñas de sus vidas.",
+      "cover": "https://m.media-amazon.com/images/I/51E6haXXEpL._SY445_SX342_.jpg",
+      "description": "The winning novel of the 2023 Planeta Prize immerses us, with the rhythm of stories told by the fire, in a captivating tale set in a remote pazo (Galician manor) in Galicia. There are family secrets that deserve to be told. This is the story of one of them. One February night in 1900, at the dawn of the 20th century, in the Espíritu Santo pazo, two girls, Clara and Catalina, come into the world, whose destinies were already written. However, an unexpected revenge will forever shake their lives and those of all the Valdés. Doña Inés, matriarch of the saga and faithful wife of Don Gustavo, must survive heartbreak, the pain of abandonment, and power struggles to make her true daughter the heiress to an entire empire, in a time when women were not allowed to be masters of their lives. 'The Daughters of the Maid' is a magical and realistic story at the same time, set in an extraordinary Galicia, about men and women who rebel against their own destiny in search of the truth.",
       "pages": 480,
       "language": "Spanish",
       "publishSpecs": {
@@ -61,7 +61,7 @@
         "Best Seller"
       ],
       "beenRead": false,
-      "currentlyReading": false,
+      "currentlyReading": false
     },
     {
       "id": 3,
@@ -98,7 +98,7 @@
     },
     {
       "id": 4,
-      "title": "Hierba",
+      "title": "Grass",
       "author": {
         "name": "Keum Suk",
         "lastName": "Gendry-Kim",
