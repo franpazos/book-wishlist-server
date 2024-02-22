@@ -89,8 +89,8 @@
       "awards": [
         "Morning Star"
       ],
-      "beenRead": false,
-      "currentlyReading": true,
+      "beenRead": true,
+      "currentlyReading": false,
       "reviewData": {
         "rating": 0,
         "comment": "",
@@ -269,7 +269,7 @@
       "beenRead": true,
       "currentlyReading": false,
       "reviewData": {
-        "rating": 4,
+        "rating": 5,
         "comment": "\"En los años del cólera\" by Gabriel García Márquez is a captivating exploration of love's endurance amidst the relentless passage of time. Set against the backdrop of a cholera epidemic, the novel follows the intertwined lives of Florentino Ariza and Fermina Daza. Márquez's magical realism infuses the narrative with poetic richness, weaving a tale that transcends the boundaries of ordinary existence. The novel is a poignant reflection on the complexities of human relationships, aging, and the choices we make in the pursuit of love. With vivid characters and lyrical prose, \"En los años del cólera\" stands as a timeless testament to the enduring power of love in the face of life's inevitable challenges.",
         "date": ""
       },
