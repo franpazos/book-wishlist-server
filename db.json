@@ -11,8 +11,9 @@
         "birth": 1977
       },
       "genres": [
-        "Historical Fiction",
-        "Romance Novel"
+        "Fiction",
+        "Historic",
+        "Drama"
       ],
       "cover": "https://m.media-amazon.com/images/I/81gljyRLiOL._SL1500_.jpg",
       "description": "On a February night in 1900, just as the 20th century began, two girls, Clara and Catalina, were born in the Espíritu Santo estate, and their destinies were already written. However, an unexpected revenge will forever shake their lives and those of all the Valdés. Doña Inés, the matriarch of the family and faithful wife to Don Gustavo, must survive heartbreak, the pain of abandonment, and power struggles to make her true daughter the heir to an entire empire, in a time when women were not allowed to be masters of their own lives. 'The Daughters of the Maid' is a magical and realistic story set in an extraordinary Galicia, about men and women rebelling against their own destinies in search of the truth.",
@@ -45,9 +46,9 @@
         "birth": 1986
       },
       "genres": [
-        "Nonfiction",
+        "Non-Fiction",
         "Self Help",
-        "Psychology"
+        "Science"
       ],
       "cover": "https://imagessl1.casadellibro.com/a/l/s5/31/9781847941831.webp",
       "description": "No matter your goals, Atomic Habits offers a proven framework for improving—every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results. If you're having trouble changing your habits, the problem isn't you. The problem is your system. Bad habits repeat themselves again and again not because you don't want to change, but because you have the wrong system for change. You do not rise to the level of your goals. You fall to the level of your systems. Here, you'll get a proven system that can take you to new heights. Clear is known for his ability to distill complex topics into simple behaviors that can be easily applied to daily life and work. Here, he draws on the most proven ideas from biology, psychology, and neuroscience to create an easy-to-understand guide for making good habits inevitable and bad habits impossible. Along the way, readers will be inspired and entertained with true stories from Olympic gold medalists, award-winning artists, business leaders, life-saving physicians, and star comedians who have used the science of small habits to master their craft and vault to the top of their field. Atomic Habits will reshape the way you think about progress and success, and give you the tools and strategies you need to transform your habits--whether you are a team looking to win a championship, an organization hoping to redefine an industry, or simply an individual who wishes to quit smoking, lose weight, reduce stress, or achieve any other goal.",
@@ -89,7 +90,7 @@
         "Morning Star"
       ],
       "beenRead": false,
-      "currentlyReading": false,
+      "currentlyReading": true,
       "reviewData": {
         "rating": 0,
         "comment": "",
@@ -107,8 +108,8 @@
         "birth": 1971
       },
       "genres": [
-        "Nonfiction",
-        "Graphic Novel",
+        "Non-Fiction",
+        "Comic",
         "Historic",
         "Biography"
       ],
@@ -145,7 +146,7 @@
       },
       "genres": [
         "Fiction",
-        "Thriller"
+        "Mystery"
       ],
       "cover": "https://m.media-amazon.com/images/I/812kr8ivEUL._AC_UF1000,1000_QL80_.jpg",
       "description": "Marcus Goldman is riding high. The twenty-eight-year-old writer is the new darling of American letters, whose debut novel has sold two million copies. But when it comes time to produce a new book, he is sidelined by a crippling case of writer’s block. He travels to Somerset, New Hamprshire, to see his mentor, Harry Quebert, one of the country’s most respected writers, hoping to jar his creative juices as his publisher’s deadline looms. But Marcus’s plans are upended when Harry is sensationally implicated in a cold-case murder: Fifteen-year-old Nola Kellergan went missing in 1975, and Harry admits to having had an affair with her. Following a trail of clues through the backwoods and isolated beaches of New Hampshire, Marcus must answer two questions, which are mysteriously connected: Who killed Nola Kellergan? And how do you write a book to save someone’s life?",
@@ -163,8 +164,8 @@
       "beenRead": true,
       "currentlyReading": false,
       "reviewData": {
-        "rating": 0,
-        "comment": "",
+        "rating": 5,
+        "comment": "I really enjoyed this book! I was glued to it from the start, and just couldn´t stop reading. I needed to solve the mystery and Joël Dicker kept me guessing the entire time. Had lots of fun devouring these pages and would 100% recomend this thriller.",
         "date": ""
       }
     },
@@ -228,8 +229,7 @@
       },
       "awards": [
         "Goodreads Choice Award for Fiction",
-        "Best Seller"
-      ],
+        "Best Seller"],
       "beenRead": true,
       "currentlyReading": false,
       "reviewData": {
@@ -237,6 +237,42 @@
         "comment": "",
         "date": ""
       }
+    },
+    {
+      "title": "El amor en los tiempos del cólera",
+      "author": {
+        "name": "Gabriel",
+        "lastName": "García Márquez",
+        "nobelAwarded": true,
+        "country": "Colombia",
+        "birth": "1927"
+      },
+      "genres": [
+        "Fiction",
+        "Drama",
+        "Romance",
+        "Classic"
+      ],
+      "cover": "https://m.media-amazon.com/images/I/91APYoT6WwL._SL1500_.jpg",
+      "description": "«Era inevitable: el olor de las almendras amargas le recordaba siempre el destino de los amores contrariados». Cuando el refugiado de guerra antillano Jeremiah de Saint-Amour se suicida con un sahumerio de cianuro de oro, el doctor Juvenal Urbino atiende su caso (uno que creía perdido) y se asombra al saber que es el primer suicidio, en muchos años, no llevado a cabo por razones tan justificadas como el amor. Esa misma tarde el doctor Juvenal Urbino muere, tratando de alcanzar a su única mascota (un loro), y deja viuda a su amada esposa Fermina Daza. Al final del funeral, mientras Fermina está cerrando la puerta de su casa ve a Florentino Ariza, un espíritu del pasado que ahora arrastra consigo la promesa de un amor que él ha profesado, y así en un momento de inspiración le reitera su promesa de amor que ha cumplido durante cincuenta y un años, nueve meses y cuatro días. Fermina Daza comienza a ser atosigada por el fantasma de un amor juvenil que no ha parado y desde este punto Gabriel García Márquez nos cuen",
+      "pages": "400",
+      "language": "Spanish",
+      "publishSpecs": {
+        "year": "2018",
+        "publisher": "Random House"
+      },
+      "awards": [
+        "Premio Gutenberg",
+        "Los Angeles Times Book Prize"
+      ],
+      "beenRead": true,
+      "currentlyReading": false,
+      "reviewData": {
+        "rating": 4,
+        "comment": "Good book",
+        "date": ""
+      },
+      "id": 11
     }
   ]
 }
