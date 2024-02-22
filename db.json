@@ -205,7 +205,7 @@
       },
       "id": 6
     },
-     {
+    {
       "id": 7,
       "title": "The Midnight Library",
       "author": {
@@ -229,7 +229,8 @@
       },
       "awards": [
         "Goodreads Choice Award for Fiction",
-        "Best Seller"],
+        "Best Seller"
+      ],
       "beenRead": true,
       "currentlyReading": false,
       "reviewData": {
