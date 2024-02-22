@@ -61,7 +61,7 @@
       "awards": [
         "Best Seller"
       ],
-      "beenRead": true,
+      "beenRead": false,
       "currentlyReading": false
     },
     {
@@ -89,11 +89,11 @@
       "awards": [
         "Morning Star"
       ],
-      "beenRead": false,
-      "currentlyReading": true,
+      "beenRead": true,
+      "currentlyReading": false,
       "reviewData": {
-        "rating": 0,
-        "comment": "",
+        "rating": 4,
+        "comment": "mola mogollon",
         "date": ""
       }
     },
@@ -196,16 +196,16 @@
       "awards": [
         "Best Seller"
       ],
-      "beenRead": false,
+      "beenRead": true,
       "currentlyReading": false,
       "reviewData": {
-        "rating": 0,
-        "comment": "",
+        "rating": 4,
+        "comment": "me gustoi ",
         "date": ""
       },
       "id": 6
     },
-     {
+    {
       "id": 7,
       "title": "The Midnight Library",
       "author": {
@@ -229,7 +229,8 @@
       },
       "awards": [
         "Goodreads Choice Award for Fiction",
-        "Best Seller"],
+        "Best Seller"
+      ],
       "beenRead": true,
       "currentlyReading": false,
       "reviewData": {
