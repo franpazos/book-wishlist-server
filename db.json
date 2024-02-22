@@ -89,11 +89,11 @@
       "awards": [
         "Morning Star"
       ],
-      "beenRead": true,
-      "currentlyReading": false,
+      "beenRead": false,
+      "currentlyReading": true,
       "reviewData": {
-        "rating": 4,
-        "comment": "mola mogollon",
+        "rating": 0,
+        "comment": "",
         "date": ""
       }
     },
@@ -164,7 +164,7 @@
       "beenRead": true,
       "currentlyReading": false,
       "reviewData": {
-        "rating": 5,
+        "rating": 4,
         "comment": "I really enjoyed this book! I was glued to it from the start, and just couldn´t stop reading. I needed to solve the mystery and Joël Dicker kept me guessing the entire time. Had lots of fun devouring these pages and would 100% recomend this thriller.",
         "date": ""
       }
@@ -196,7 +196,7 @@
       "awards": [
         "Best Seller"
       ],
-      "beenRead": true,
+      "beenRead": false,
       "currentlyReading": false,
       "reviewData": {
         "rating": 4,
@@ -231,7 +231,7 @@
         "Goodreads Choice Award for Fiction",
         "Best Seller"
       ],
-      "beenRead": true,
+      "beenRead": false,
       "currentlyReading": false,
       "reviewData": {
         "rating": 0,
