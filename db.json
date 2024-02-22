@@ -309,6 +309,38 @@
         "date": ""
       },
       "id": 13
+    },
+    {
+      "title": "The Culture Map",
+      "author": {
+        "name": "Erin",
+        "lastName": "Meyer",
+        "nobelAwarded": false,
+        "country": "United States",
+        "birth": "1971"
+      },
+      "genres": [
+        "Non-Fiction",
+        "Psychology",
+        "Self Help"
+      ],
+      "cover": "https://m.media-amazon.com/images/I/71Kt7AkcBWL._SL1500_.jpg",
+      "description": "When you realize that, before giving criticism, Americans shower praises, whereas Germans get straight to the point; or that Asians show reverence for hierarchy, while Swedes believe anyone can be a leader, you understand that we are governed by a cultural context that is essential to grasp before considering interacting with someone from another country.  Communication between cultures is the great challenge of the global economy, and having the necessary keys to facilitate understanding can be the difference between success and failure.  Renowned expert Erin Meyer breaks down the 8 differential points of our cultural traits and provides us with tools to effectively confront the most common communication challenges in the world of international relations. The cultural map has become the reference work for any reader who wants to navigate this subtle and sometimes treacherous terrain in the most conscious and comfortable way possible, where people from different backgrounds are expected to work together harmoniously.",
+      "pages": "270",
+      "language": "Italian",
+      "publishSpecs": {
+        "year": "2017",
+        "publisher": "RoiEdizioni"
+      },
+      "awards": [],
+      "beenRead": false,
+      "currentlyReading": false,
+      "reviewData": {
+        "rating": 0,
+        "comment": "",
+        "date": ""
+      },
+      "id": 14
     }
   ]
 }
