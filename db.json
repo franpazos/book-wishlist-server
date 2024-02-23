@@ -341,6 +341,172 @@
         "date": ""
       },
       "id": 14
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": {
+        "name": "Jerome D.",
+        "lastName": "Salinger",
+        "nobelAwarded": false,
+        "country": "United States",
+        "birth": ""
+      },
+      "genres": [
+        "Fiction",
+        "Drama",
+        "Classic",
+        "Young Adult"
+      ],
+      "cover": "https://m.media-amazon.com/images/I/8125BDk3l9L._SL1500_.jpg",
+      "description": "The Catcher in Rye is the ultimate novel for disaffected youth, but it's relevant to all ages. The story is told by Holden Caulfield, a seventeen- year-old dropout who has just been kicked out of his fourth school. Throughout, Holden dissects the 'phony' aspects of society, and the 'phonies' themselves: the headmaster whose affability depends on the wealth of the parents, his roommate who scores with girls using sickly-sweet affection.  Lazy in style, full of slang and swear words, it's a novel whose interest and appeal comes from its observations rather than its plot intrigues (in conventional terms, there is hardly any plot at all). Salinger's style creates an effect of conversation, it is as though Holden is speaking to you personally, as though you too have seen through the pretences of the American Dream and are growing up unable to see the point of living in, or contributing to, the society around you.  Written with the clarity of a boy leaving childhood, it deals with society, love, loss, and expectations without ever falling into the clutch of a cliche.",
+      "pages": "208",
+      "language": "English",
+      "publishSpecs": {
+        "year": "1991",
+        "publisher": "Hachette Book Group USA"
+      },
+      "awards": [
+        "National Book Award Finalist",
+        "Teen Read Award"
+      ],
+      "beenRead": true,
+      "currentlyReading": false,
+      "reviewData": {
+        "rating": 2,
+        "comment": "\"The Catcher in the Rye\" by J.D. Salinger was a mandatory read during my school days, and while I recognize its status as a coming-of-age classic, my experience with it left me somewhat ambivalent. The novel's exploration of teenage angst and rebellion felt more relatable in retrospect, leading me to ponder whether it might resonate more profoundly with a more mature perspective. The narrative, though undoubtedly skillful, seemed to carry layers that could be better unpacked with the wisdom that comes with age. Perhaps, as an adult, I might revisit Holden Caulfield's journey and uncover a deeper appreciation for the complexities of adolescence that Salinger masterfully captures.",
+        "date": ""
+      },
+      "id": 15
+    },
+    {
+      "title": "Everything Changes",
+      "author": {
+        "name": "Jonathan",
+        "lastName": "Tropper",
+        "nobelAwarded": false,
+        "country": "United States",
+        "birth": "1970"
+      },
+      "genres": [
+        "Romance",
+        "Humor",
+        "Fiction"
+      ],
+      "cover": "https://m.media-amazon.com/images/I/619fwKO9SGL._SL1200_.jpg",
+      "description": "To all appearances, Zachary King is a man with luck on his side. A steady, well-paying job; a rent-free Manhattan apartment; and Hope, his stunning, blue-blooded fiancée: smart, sexy, and completely out of his league. But as the wedding day looms, Zack finds himself haunted by the memory of his best friend, Rael, killed in a car wreck two years earlier, and by his increasingly complicated feelings for Tamara, the beautiful widow Rael left behind.",
+      "pages": "335",
+      "language": "English",
+      "publishSpecs": {
+        "year": "2006",
+        "publisher": "Bantam"
+      },
+      "awards": [],
+      "beenRead": false,
+      "currentlyReading": false,
+      "reviewData": {
+        "rating": 0,
+        "comment": "",
+        "date": ""
+      },
+      "id": 17
+    },
+    {
+      "title": "Normal People",
+      "author": {
+        "name": "Sally",
+        "lastName": "Rooney",
+        "nobelAwarded": false,
+        "country": "Ireland",
+        "birth": ""
+      },
+      "genres": [
+        "Fiction",
+        "Romance"
+      ],
+      "cover": "https://m.media-amazon.com/images/I/718W0JbHm1L._SL1500_.jpg",
+      "description": "At school Connell and Marianne pretend not to know each other. He’s popular and well-adjusted, star of the school soccer team while she is lonely, proud, and intensely private. But when Connell comes to pick his mother up from her housekeeping job at Marianne’s house, a strange and indelible connection grows between the two teenagers - one they are determined to conceal.  A year later, they’re both studying at Trinity College in Dublin. Marianne has found her feet in a new social world while Connell hangs at the sidelines, shy and uncertain. Throughout their years in college, Marianne and Connell circle one another, straying toward other people and possibilities but always magnetically, irresistibly drawn back together. Then, as she veers into self-destruction and he begins to search for meaning elsewhere, each must confront how far they are willing to go to save the other.",
+      "pages": "273",
+      "language": "",
+      "publishSpecs": {
+        "year": "2019",
+        "publisher": "Crown"
+      },
+      "awards": [
+        "British Book of the Year Award",
+        "Women's Prize for Fiction",
+        "Costa Book Award "
+      ],
+      "beenRead": false,
+      "currentlyReading": false,
+      "reviewData": {
+        "rating": 0,
+        "comment": "",
+        "date": ""
+      },
+      "id": 18
+    },
+    {
+      "title": "The Old Man and the Sea",
+      "author": {
+        "name": "Ernest ",
+        "lastName": "Hemingway",
+        "nobelAwarded": true,
+        "country": "United States",
+        "birth": "1896"
+      },
+      "genres": [
+        "Fiction",
+        "Classic"
+      ],
+      "cover": "https://m.media-amazon.com/images/I/71RXc0OoEwL._SL1500_.jpg",
+      "description": "A beautiful tale, awash in the seasalt and sweat, bait and beer of the Havana coast. It tells a fundamental human truth: in a volatile world, from our first breath to our last wish, through triumphs and pitfalls both trivial and profound, what sustains us, ultimately, is hope.",
+      "pages": "96",
+      "language": "English",
+      "publishSpecs": {
+        "year": "1996",
+        "publisher": "Scribner"
+      },
+      "awards": [
+        "Pulitzer Prize for Fiction",
+        "Premio Bancarella",
+        "National Book Award for Fiction"
+      ],
+      "beenRead": true,
+      "currentlyReading": false,
+      "reviewData": {
+        "rating": 3,
+        "comment": "\"The Old Man and the Sea\" by Ernest Hemingway is a literary classic that I found to be an enjoyable and accessible read. The simplicity of its narrative made it easy to delve into the poignant story of Santiago's solitary struggle with the marlin. Hemingway's vivid descriptions painted a captivating picture of the sea and the old man's journey, showcasing the author's mastery of language. While I can appreciate its status as a classic and the symbolic depth it carries, it didn't quite become a personal favorite. Nevertheless, the novel's timeless themes and the indomitable spirit of its protagonist left a lasting impression, making it a worthy exploration in the world of literature.",
+        "date": ""
+      },
+      "id": 19
+    },
+    {
+      "title": "Lord of the Flies",
+      "author": {
+        "name": "William",
+        "lastName": "Golding",
+        "nobelAwarded": false,
+        "country": "United Kingdom",
+        "birth": "1911"
+      },
+      "genres": [],
+      "cover": "https://m.media-amazon.com/images/I/71-WP1T-bjL._SL1200_.jpg",
+      "description": "At the dawn of the next world war, a plane crashes on an uncharted island, stranding a group of schoolboys. At first, with no adult supervision, their freedom is something to celebrate; this far from civilization the boys can do anything they want. Anything. They attempt to forge their own society, failing, however, in the face of terror, sin and evil. And as order collapses, as strange howls echo in the night, as terror begins its reign, the hope of adventure seems as far from reality as the hope of being rescued. Labeled a parable, an allegory, a myth, a morality tale, a parody, a political treatise, even a vision of the apocalypse, Lord of the Flies is perhaps our most memorable novel about “the end of innocence, the darkness of man’s heart.”",
+      "pages": "336",
+      "language": "English",
+      "publishSpecs": {
+        "year": "2016",
+        "publisher": "Penguin Classics"
+      },
+      "awards": [],
+      "beenRead": false,
+      "currentlyReading": false,
+      "reviewData": {
+        "rating": 0,
+        "comment": "",
+        "date": ""
+      },
+      "id": 20
     }
   ]
 }

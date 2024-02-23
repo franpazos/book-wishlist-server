@@ -1,6 +1,7 @@
 require("dotenv").config();
 const jsonServer = require("json-server");
 const morgan = require("morgan");
+const cors = require('cors')
 
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
@@ -15,6 +16,7 @@ server.use((req, res, next) => {
   next();
 });
 server.use(router);
+server.use(cors())
 
 server.listen(PORT, () => {
   console.log(`JSON Server is running at port ${PORT}`);
